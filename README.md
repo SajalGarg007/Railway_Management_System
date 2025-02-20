@@ -60,8 +60,8 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - : Eclipse EE 
 - : Apache Maven 
 - : Tomcat v8.0+ 
-- : PostgresSQL 
-- : PostgresSQL JDBC Driver
+- : Oracle (SQL) / SQL PLUS
+- : Oracle SQL Developer
 
 ### ========== Dummy Database Initialization ===========
 
